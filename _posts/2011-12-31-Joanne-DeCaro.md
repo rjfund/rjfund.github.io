@@ -5,7 +5,7 @@ categories: [Team]
 comments: false
 permalink: joanne
 image:
-  feature: ./img/decaro_joanne_edit.jpg
+  feature: decaro_joanne_edit.jpg
 ---
 Joanne is a [PhD Candidate](https://socialecology.uci.edu/students/grad/jdecaro) in Criminology at UC Irvine.
 
