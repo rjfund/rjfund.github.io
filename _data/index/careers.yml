@@ -1,0 +1,22 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+  link:
+  date: Check payable to RJFund  //
+  job: P.O. Box 885, Culver City, CA 90232
+
+- name: Donate your spare change
+  link:
+  date:
+  job:
+  link: https://www.changeupforcharity.com/
+
+- name:
+  link:
+  date: Make an in-kind donation //
+  job: in-kind@rjfund.org
+
+- name: Donate a percentage of Amazon purchase
+  link: https://smile.amazon.com
+  date:
+  job:

@@ -1,0 +1,12 @@
+<div class="col" style="padding-top: 10px;">
+    <h2 style="margin: 0">Other Ways to Give</h2>
+
+<div class="archive">
+  <div class="timeline" id="timeline" >
+
+    {% for career in site.data.index.careers %}
+          <div class="archive-title" style="margin: 0px; padding: 4px;"><div class="archive-year"><strong>{{ career.date }}</strong> {{ career.job }} <a href="{{ career.link }}">{{ career.name }}</a></div></div>
+    {% endfor %}
+  </div>
+</div>
+</div>

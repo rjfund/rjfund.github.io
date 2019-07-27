@@ -1,0 +1,58 @@
+---
+layout: default
+---
+
+<a class="btn btn-warning" href= "./ideas.html/" >
+  Back
+</a>
+{% if page.image.feature %}
+<div class="post-image-feature">
+  <img class="feature-image" src=
+  {% if page.image.feature contains 'https' or page.image.feature contains 'http' %}
+  "{{ page.image.feature }}"
+  {% else %}
+  "{{ site.url }}/img/{{ page.image.feature }}"
+  {% endif %}
+  alt="{{ page.title | escape }} feature image">
+
+  {% if page.image.credit %}
+  <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
+  {% endif %}
+</div><!-- /.image-wrap -->
+{% endif %}
+
+
+<div id="post">
+  <header class="post-header" style="margin-bottom: 0;">
+    <h1 title="{{ page.title | escape }}" style="margin: 1px;">{{ page.title }}</h1>
+
+    <span class="post-meta">
+      {% if page.link %}
+      <span>
+      <a href="{{ page.link }}" target="_blank" title="{{ page.title | escape }}">{{ page.link | downcase }}</a>
+      {% endif %}
+      </span>
+      </header>
+    </div>
+
+  <article class="post-content">
+    {{ content }}
+  </article>
+
+<div class="share-buttons">
+  <h6>Share on: </h6>
+  <ul>
+    <li>
+      <a href="https://twitter.com/intent/tweet?text={{ site.url }}{{ page.url }}" class="twitter btn" title="Share on Twitter"><i class="fa fa-twitter"></i><span> Twitter</span></a>
+    </li>
+    <li>
+      <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}" class="facebook btn" title="Share on Facebook"><i class="fa fa-facebook"></i><span> Facebook</span></a>
+    </li>
+  </ul>
+</div><!-- end share-buttons -->
+</div>
+
+{% if site.owner.disqus-shortname and page.comments == true %}
+<div id="disqus_thread"></div>
+{% include disqus.html %}
+{% endif %}

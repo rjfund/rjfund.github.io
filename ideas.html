@@ -1,0 +1,58 @@
+---
+layout: default
+permalink: /ideas
+title: Good Ideas
+---
+
+{% for post in site.categories.Ideas reversed %}
+<section class="post">
+  <header class="post-header">
+  <h4>
+    <a href="{{ site.url }}{{ post.url }}" class="post-title" title="{{ post.title | escape }}">{{ post.title }}</a>
+
+    {% if post.link %}
+    <a class="post-title-link" href="{{ post.link }}" target="_blank" title="{{ post.title | escape }}"><i class="fa fa-external-link"></i></a>
+    {% endif %}
+
+  </h4>
+
+    {% if post.author %}
+      {% assign author = site.data.authors[post.author] %}
+    {% else %}
+      {% assign author = site.owner %}
+    {% endif %}
+
+    </header>
+
+    {% if post.image.feature %}
+    <div class="post-image-feature">
+      <img src=
+      {% if post.image.feature contains 'http' %}
+      "{{ post.image.feature }}"
+      {% else %}
+      "{{ site.url }}/img/{{ post.image.feature }}"
+      {% endif %}
+      alt="{{ post.title | escape }} feature image">
+
+    </div><!-- /.image-wrap -->
+    {% endif %}
+
+    {% if post.excerpt %}
+    <div class="post-description">
+      <p style="border-style: solid; border-color: #E71C4D; border-width: 1px;">
+        {{ post.excerpt }}
+      </p>
+    </div>
+    {% endif %}
+
+
+</section>
+{% endfor %}
+
+  <table style="width: 50%; margin-left: auto; margin-right: auto;">
+    <tr>
+  <th><a href="./inactive.html" style="color: inherit; border-bottom-style: solid; border-bottom-color: #4AADE6;">Inactive Ideas</a></th>
+  <th><a href="./adjacent.html" style="color: inherit; border-bottom-style: solid; border-bottom-color: #4AADE6;">Adjacent Ideas</a></th>
+  <th><a href="./carnage.html" style="color: inherit; border-bottom-style: solid; border-bottom-color: #4AADE6;">One Really Bad Idea</a></th>
+    </tr>
+    </table>
