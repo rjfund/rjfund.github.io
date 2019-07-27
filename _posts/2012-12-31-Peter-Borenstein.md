@@ -5,7 +5,7 @@ categories: [Team]
 comments: false
 permalink: peter
 image:
-  feature: ./img/PBHeadshot-150x150.jpg
+  feature: PBHeadshot-150x150.jpg
 ---
 Peter founded RJFund in 2016 and is the lead attorney at Lifer Legal.
 
