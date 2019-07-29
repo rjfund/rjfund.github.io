@@ -19,19 +19,6 @@ title: Tools
     </h4>
     </header>
 
-    {% if post.image.feature %}
-    <div class="post-image-feature">
-      <img src=
-      {% if post.image.feature contains 'http' %}
-      "{{ post.image.feature }}"
-      {% else %}
-      "{{ site.url }}/img/{{ post.image.feature }}"
-      {% endif %}
-      alt="{{ post.title | escape }} feature image">
-
-    </div><!-- /.image-wrap -->
-    {% endif %}
-
     {% if post.excerpt %}
     <div class="post-description">
       <p style="border-style: solid; border-color: #E71C4D; border-width: 1px;">
@@ -45,16 +32,16 @@ title: Tools
 </div>
 
 </div>
+<div class="row">
 <hr>
 <p align="right">Software tools developed in-house to enhance the <a href="./ideas">good ideas</a> we're working on. <br>
 If you'd like to use one of these tools, please send an email to <a href="mailto:tools@rjfund.org">tools@rjfund.org</a>.
 </p>
 </div>
+</div>
 
-
-<div class="row">
     <div class="col l4" style="font-size:17px;">
       <img src="./img/arbbie.jpg" height="350">
       </div>
-</div>
+
 </div>
