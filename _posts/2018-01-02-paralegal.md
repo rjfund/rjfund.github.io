@@ -5,7 +5,7 @@ categories: [Ideas]
 comments: false
 permalink: paralegal
 tags: active
-link: website coming soon!
+link: 
 ---
 
 ### Paralegal certification for prisoners and former prisoners who have honed their legal skills in prison law libraries over decades (so-called "jailhouse lawyers") so that they may obtain a well-paying job in the legal industry when they come home.
