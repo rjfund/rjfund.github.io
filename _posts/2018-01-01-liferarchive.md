@@ -5,7 +5,7 @@ categories: [Ideas]
 comments: false
 permalink: archive
 tags: active
-link: website coming soon!
+link: 
 ---
 
 ### Collect the oral histories of recently returned lifers to learn from their experiences and begin to understand the long-term psychological and emotional effects of incarceration.
