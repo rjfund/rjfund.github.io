@@ -7,10 +7,17 @@ permalink: peter
 image:
   feature: PBHeadshot-150x150.jpg
 ---
-* Peter founded RJFund in 2016 and is the lead attorney at Lifer Legal.
-* You can email him at [pborenstein@rjfund.org](mailto:pborenstein@rjfund.org).
-* Or call him at (213) 454-0980.
-* He enjoys [science fiction](https://www.amazon.com/Fifth-Season-Broken-Earth/dp/0316229296/ref=sr_1_1?keywords=fifth+season&qid=1562991392&s=gateway&sr=8-1), [Tom Waits](https://www.tomwaitsfan.com/tom%20waits%20library/www.tomwaitslibrary.com/interviews/02-june-gq.html), and [capoeira](https://www.youtube.com/watch?v=g_4IvneGe4Y).
+
+Peter founded RJFund in 2016 and is the lead attorney at Lifer Legal.
+
+
+You can email him at [pborenstein@rjfund.org](mailto:pborenstein@rjfund.org).
+
+
+Or call him at (213) 454-0980.
+
+
+He enjoys [science fiction](https://www.amazon.com/Fifth-Season-Broken-Earth/dp/0316229296/ref=sr_1_1?keywords=fifth+season&qid=1562991392&s=gateway&sr=8-1), [Tom Waits](https://www.tomwaitsfan.com/tom%20waits%20library/www.tomwaitslibrary.com/interviews/02-june-gq.html), and [capoeira](https://www.youtube.com/watch?v=g_4IvneGe4Y).
 
 <!--more-->
 
