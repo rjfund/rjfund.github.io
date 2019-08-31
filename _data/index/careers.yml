@@ -5,11 +5,11 @@
   date: Check payable to RJFund  //
   job: P.O. Box 885, Culver City, CA 90232
 
-- name: Donate your spare change
+- name: 
   link:
-  date:
-  job:
-  link: https://www.changeupforcharity.com/
+  date: Donate your <a href="https://www.changeupforcharity.com/">spare change</a> or
+  job: <a href="https://www.leftovercurrency.com/">foreign currency</a>
+  link: 
 
 - name:
   link:
