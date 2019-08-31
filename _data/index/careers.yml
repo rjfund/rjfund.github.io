@@ -7,7 +7,7 @@
 
 - name: 
   link:
-  date: <a href="https://www.changeupforcharity.com/">Donate your spare change</a> or
+  date: Donate your <a href="https://www.changeupforcharity.com/">spare change</a> //
   job: <a href="https://www.leftovercurrency.com/">foreign currency</a>
   link: 
 
@@ -16,7 +16,7 @@
   date: Volunteer or make an in-kind donation //
   job: <a href="mailto:contact@rjfund.org">contact@rjfund.org</a>
 
-- name: Donate a percentage of Amazon purchase
+- name: Go to Amazon Smile before you checkout
   link: https://smile.amazon.com/ch/47-5260391
   date:
   job:
