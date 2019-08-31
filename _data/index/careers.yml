@@ -7,16 +7,16 @@
 
 - name: 
   link:
-  date: Donate your <a href="https://www.changeupforcharity.com/">spare change</a> //
-  job: <a href="https://www.leftovercurrency.com/">foreign currency</a>
+  date: Donate your <a href="https://www.changeupforcharity.com/" target="_blank">spare change</a> //
+  job: <a href="https://www.leftovercurrency.com/" target="_blank">foreign currency</a>
   link: 
 
 - name:
   link:
   date: Volunteer or make an in-kind donation //
-  job: <a href="mailto:contact@rjfund.org">contact@rjfund.org</a>
+  job: <a href="mailto:contact@rjfund.org" target="_blank">contact@rjfund.org</a>
 
-- name: Go to Amazon Smile before you checkout
-  link: https://smile.amazon.com/ch/47-5260391
-  date:
+- name: 
+  link: 
+  date: Go to <a href="https://smile.amazon.com/ch/47-5260391" target="_blank">Amazon Smile</a> before you checkout
   job:
