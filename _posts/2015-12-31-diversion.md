@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Pre-Charge Diversion
-categories: 
+categories: Past
 comments: false
 permalink: diversion
-tags: inactive
+
 ---
 
 Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H2O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times (That’s a citation). Underline.Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
