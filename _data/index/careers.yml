@@ -14,7 +14,7 @@
 - name:
   link:
   date: Volunteer or make an in-kind donation //
-  job: contact@rjfund.org
+  job: <a href="mailto:contact@rjfund.org">contact@rjfund.org</a>
 
 - name: Donate a percentage of Amazon purchase
   link: https://smile.amazon.com/ch/47-5260391
