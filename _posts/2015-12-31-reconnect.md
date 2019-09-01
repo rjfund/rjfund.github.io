@@ -9,7 +9,9 @@ permalink: reconnect
 
 ## Pre-Charge Diversion ##
 
-Pre-Charge Diversion programs offer first-time, low-level, adult offenders the chance to avoid traditional criminal justice in favor of a community-based alternative. On average, pre-charge diversion saves $200+ per participant and has been shown to drastically reduce recividism to below 5%, which is extremely low compared to the traditional criminal justice recidivism rate of 40% or more.
+Pre-Charge Diversion programs offer first-time, low-level, adult offenders the chance to avoid traditional criminal justice in favor of a community-based alternative. 
+
+* On average, pre-charge diversion saves $200+ per participant and with recividsm rates below 5%, which is extremely low compared to the traditional criminal justice recidivism rate of 40% or more. Read more [here](http://www.spiritlawpolitics.org/blog/2018/5/29/traveling-well-how-community-based-diversions-can-radically-change-our-criminal-justice-system-saving-hundreds-of-hours-thousands-of-lives-and-millions-of-dollars). 
 * RJFund's first project was ReConnect.LA, a campaign to persuade other cities in Los Angeles County of the value of pre-charge diversion programs and to aid them in creating their own. 
 
 <!--more-->
