@@ -11,6 +11,8 @@ permalink: reconnect
 
 IN 2014, [Peter](./team) created the Neighborhood Justice Program (NJP) for the Los Angeles City Attorney's office, a pre-charge diversion program that offers first-time, low-level, adult offenders the chance to avoid the traditional criminal justice system in favor of a community-based alternative that engages local leaders in the process of **doing justice**. 
 
+* RJFund's first project was ReConnect.LA, a campaign to persuade other cities in Los Angeles County of the value of pre-charge diversion programs and to aid them in creating their own. 
+
 <!--more-->
 
 ## HTML Elements
