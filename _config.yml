@@ -11,6 +11,7 @@ keywords: ["criminal", "justice", "reform", "restorative", "prison", "access", "
 plugins:
     - jekyll-seo-tag
     - jekyll-sitemap
+    - jekyll-target-blank
 
 #
 ###################################
