@@ -9,9 +9,7 @@ permalink: reconnect
 
 ## Pre-Charge Diversion ##
 
-In 2014, [Peter](./team) created the Neighborhood Justice Program (NJP) for the Los Angeles City Attorney's office, a pre-charge diversion program that offers first-time, low-level, adult offenders the chance to avoid traditional criminal justice in favor of a community-based alternative.
-
-* To date, NJP has saved LA County more than six million dollars. In its first year of operation, NJP participants recidivated at a rate of three percent, which is extremely low. Read more about it [here](http://www.spiritlawpolitics.org/blog/2018/5/29/traveling-well-how-community-based-diversions-can-radically-change-our-criminal-justice-system-saving-hundreds-of-hours-thousands-of-lives-and-millions-of-dollars).
+Pre-Charge Diversion programs offer first-time, low-level, adult offenders the chance to avoid traditional criminal justice in favor of a community-based alternative. On average, pre-charge diversion saves $200+ per participant and has been shown to drastically reduce recividism to below 5%, which is extremely low compared to the traditional criminal justice recidivism rate of 40% or more.
 * RJFund's first project was ReConnect.LA, a campaign to persuade other cities in Los Angeles County of the value of pre-charge diversion programs and to aid them in creating their own. 
 
 <!--more-->
