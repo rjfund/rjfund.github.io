@@ -3,3 +3,4 @@ gem 'github-pages', group: :jekyll_plugins
 gem 'tzinfo-data'
 gem 'jekyll-seo-tag'
 gem 'jekyll-sitemap'
+gem 'jekyll-target-blank'
