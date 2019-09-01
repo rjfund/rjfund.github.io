@@ -8,7 +8,7 @@ tags: active
 link: 
 ---
 
-### Collection of oral histories to help the public understand the transformation that can happen inside prison and the challenges of reentering society after decades of incarceration.
+### Oral history collection demonstrating the transformation that can happen even while incarcerated and the challenges upon release.
 
 There is virtually no data on if and how time spent in prison changes an individual's personality: There are no surveys done inside prison and no exit interview when a prisoner is released. We are missing an extremely valuable opportunity to learn exactly how mass incarceration effects the people most touched by it: the prisoners themselves.
 
