@@ -8,7 +8,7 @@ tags: active
 link: https://www.lifer-legal.com
 ---
 
-### Full-service legal representation to incarcerated and formerly incarcerated people in civil court to recover property that was stolen from them as a result of their long-term prison sentences.
+### Civil legal representation for incarcerated and formerly incarcerated people to recover property stolen from them as a result of their long-term prison sentences.
 
 We estimate that as many as one-third of prisoners in California are at risk of being victims of theft. They need lawyers to help protect their assets and file civil lawsuits in the event that they are stolen from to ensure they have access to resources critical to their success inside and out of prison.
 
