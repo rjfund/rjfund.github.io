@@ -7,7 +7,7 @@
 
 - name: 
   link:
-  date: Donate your <a href="https://www.changeupforcharity.com/" target="_blank">spare change</a> //
+  date: Donate your <strong><a href="https://www.changeupforcharity.com/" target="_blank">spare change</a></strong> //
   job: <strong><a href="https://www.leftovercurrency.com/" target="_blank">foreign currency</a></strong>
   link: 
 
@@ -18,5 +18,5 @@
 
 - name: 
   link: 
-  date: Use <a href="https://smile.amazon.com/ch/47-5260391" target="_blank">Amazon Smile</a> //
+  date: Use <strong><a href="https://smile.amazon.com/ch/47-5260391" target="_blank">Amazon Smile</a></strong> //
   job: <strong><a href="https://www.paypal.com/us/fundraiser/charity/120518" target="_blank">Paypal Giving Fund</a></strong>
