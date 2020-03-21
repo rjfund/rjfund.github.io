@@ -8,7 +8,6 @@ image:
   feature: PBHeadshot-150x150.jpg
 ---
 
-
 Peter founded RJFund in 2016 and is the lead attorney at [Lifer Legal](https://www.lifer-legal.com)
 
 
